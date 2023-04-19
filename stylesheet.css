@@ -284,4 +284,8 @@ footer>nav>div>a:hover {
     html {
         width: 100vw;
     }
+    
+    header>nav>ul>li>a{
+        margin-left:0;
+    }
 }
