@@ -280,16 +280,21 @@ footer>nav>div>a:hover {
         
 }
 
-@media screen and (max-height:2533px){
+@media screen and (max-height:2532px){
     html {
         width: 100vw;
     }
     
     nav>ul>li{
         float:left;
+        display:flex;
+    }
+    
+    nav>ul{
+        display:flex;
     }
     
     .separator{
-        margin-left:20px;
+        margin-left:35px;
     }
 }
