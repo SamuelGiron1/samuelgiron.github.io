@@ -278,17 +278,3 @@ footer>nav>div>a:hover {
     }
         
 }
-
-@media screen and (min-height:2532px){
-    html {
-        width: 100vw;
-    }
-    
-    nav>ul>li{
-        font-size:15px;
-    }
-    
-    .separator{
-        margin-left:35px;
-    }
-}
