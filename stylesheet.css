@@ -217,7 +217,7 @@ footer>nav>div>a:hover {
 
 @media screen and (max-width: 673px) {
     .separator {
-        margin-left: 95px;
+        margin-left: 80px;
     }
 
     h1 {
@@ -251,7 +251,7 @@ footer>nav>div>a:hover {
     }
 
     .separator {
-        margin-left: -30px;
+        margin-left: 45px;
     }
 
     .img {
