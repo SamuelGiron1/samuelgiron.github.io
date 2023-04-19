@@ -286,10 +286,10 @@ footer>nav>div>a:hover {
     }
     
     header>nav>ul>li>a{
-        margin-left:0;
+        margin-left:-20;
     }
     
     .separator{
-        margin-left:20px;
+        margin-left:5px;
     }
 }
