@@ -215,6 +215,10 @@ footer>nav>div>a:hover {
     }
 }
 
+@media screen and (max-width:1170){
+    margin-left:5px;
+}
+
 @media screen and (max-width: 673px) {
     .separator {
         margin-left: 95px;
