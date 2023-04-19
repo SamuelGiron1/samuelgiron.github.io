@@ -271,6 +271,14 @@ footer>nav>div>a:hover {
     }
 }
 
+
+@media screen and (max-height: 2778px) {
+    .separator{
+        margin-left:55px;
+    }
+        
+}
+
 @media screen and (min-height:2532px){
     html {
         width: 100vw;
@@ -283,13 +291,4 @@ footer>nav>div>a:hover {
     .separator{
         margin-left:35px;
     }
-}
-
-
-
-@media screen and (max-height: 2778px) {
-    .separator{
-        margin-left:55px;
-    }
-        
 }
