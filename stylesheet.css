@@ -211,13 +211,7 @@ footer>nav>div>a:hover {
 
 @media screen and (max-width: 1470px) {
     figure {
-        margin-right: 300px;
-    }
-}
-
-@media screen and (max-width: 1284px) {
-    figure {
-        margin-right: 300px;
+        margin-right: 200px;
     }
 }
 
@@ -275,4 +269,11 @@ footer>nav>div>a:hover {
     .p1 {
         font-size: 100px;
     }
+}
+
+@media screen and (max-height: 2778px) {
+    .separator{
+        margin-left:10px;
+    }
+        
 }
