@@ -215,6 +215,12 @@ footer>nav>div>a:hover {
     }
 }
 
+@media screen and (max-width: 1284px) {
+    figure {
+        margin-right: 300px;
+    }
+}
+
 @media screen and (max-width: 673px) {
     .separator {
         margin-left: 95px;
@@ -255,7 +261,6 @@ footer>nav>div>a:hover {
     }
 
     .img {
-        margin-left:-10px;
         width: auto;
         height: 200px;
     }
