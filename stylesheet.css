@@ -288,4 +288,8 @@ footer>nav>div>a:hover {
     header>nav>ul>li>a{
         margin-left:0;
     }
+    
+    .separator{
+        margin-left:20px;
+    }
 }
