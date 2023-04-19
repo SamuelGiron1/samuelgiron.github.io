@@ -285,11 +285,11 @@ footer>nav>div>a:hover {
         width: 100vw;
     }
     
-    header>nav>ul>li>a{
-        margin-left:-20;
+    nav>ul>li{
+        float:left;
     }
     
     .separator{
-        margin-left:5px;
+        margin-left:10px;
     }
 }
