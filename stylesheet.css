@@ -271,9 +271,17 @@ footer>nav>div>a:hover {
     }
 }
 
+
+
 @media screen and (max-height: 2778px) {
     .separator{
         margin-left:55px;
     }
         
+}
+
+@media screen and (max-height:2340px){
+    html {
+        width: 100vw;
+    }
 }
