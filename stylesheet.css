@@ -14,12 +14,17 @@
 }
 
 html {
-    scroll-behavior: smooth
+    scroll-behavior: smooth;
+}
+
+html,
+body {
+    overflow-x: hidden;
 }
 
 body {
     background-color: #EEEEEE;
-    overflow-x: hidden;
+    position: relative;
 }
 
 header {
