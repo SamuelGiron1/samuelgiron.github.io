@@ -270,13 +270,3 @@ footer>nav>div>a:hover {
         font-size: 100px;
     }
 }
-
-@media screen and (max-height: 2532px){
-    nav>ul>li{
-        font-size:20px;
-    }
-    
-    .separator{
-        margin-left:40px;
-    }
-}
