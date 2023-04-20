@@ -271,7 +271,7 @@ footer>nav>div>a:hover {
     }
 }
 
-@media only screen and (max-width: 1168px) and (min-width: 1170px) {
+@media only screen and (max-width: 1180px) and (min-width: 1160px) {
     
     .separator{
         margin-left:40;
