@@ -260,4 +260,8 @@ footer>nav>div>a:hover {
     .p1 {
         font-size: 100px;
     }
+    
+    nav>ul>li{
+        font-size:20px;
+    }
 }
