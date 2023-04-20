@@ -235,9 +235,6 @@ footer>nav>div>a:hover {
         font-size: 100px;
     }
     
-     nav>ul>li{
-        font-size:20px;
-    }
 }
 
 @media screen and (max-width: 390px) {
@@ -265,7 +262,9 @@ footer>nav>div>a:hover {
         font-size: 100px;
     }
     
+}
+
+@media screen and (max-height: 2340px){
     nav>ul>li{
         font-size:20px;
-    }
 }
