@@ -190,19 +190,25 @@ footer {
 
 footer>nav {
     margin-top: 80px;
-    margin-left: 33%;
+    margin-left: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100%;
+    justify-content: center;
+    padding: 10px;
 }
 
 footer>nav>div {
-    display: inline-block;
-    margin-left: 30px;
+    min-width: 300px;
+    margin: 10px;
+    flex-direction: column;
+    padding: 10px;
 }
 
 footer>nav>div>a {
     color: white;
     text-decoration: none;
     font-size: 30px;
-    margin-right: 10px;
 }
 
 footer>nav>div>a:hover {
@@ -234,7 +240,7 @@ footer>nav>div>a:hover {
     .p1 {
         font-size: 100px;
     }
-    
+
 }
 
 @media screen and (max-width: 390px) {
@@ -261,11 +267,11 @@ footer>nav>div>a:hover {
     .p1 {
         font-size: 100px;
     }
-    
+
 }
 
-@media screen and (max-height: 2340px){
-    nav>ul>li{
-        font-size:20px;
+@media screen and (max-height: 2340px) {
+    nav>ul>li {
+        font-size: 20px;
     }
 }
